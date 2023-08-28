@@ -6,7 +6,7 @@ Use [Custom HTML Head Content](https://www.bookstackapp.com/docs/admin/hacking-b
 > 
 > You can find examples of custom HTML Head customizations on the [hacks part of this site](https://www.bookstackapp.com/hacks/).
 
-## [Change Fontsize](https://github.com/BookStackApp/BookStack/issues/462) (applies to the html and pdf exports)
+## [Change Fontsize](https://github.com/BookStackApp/BookStack/issues/462) (applies to html and pdf exports)
 ```
 <style>
 .page-content h1 { font-size: 2rem; }
