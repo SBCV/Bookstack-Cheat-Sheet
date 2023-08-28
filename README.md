@@ -18,7 +18,7 @@ Use [Custom HTML Head Content](https://www.bookstackapp.com/docs/admin/hacking-b
 </style>
 ```
 
-## [Change Color](https://github.com/BookStackApp/BookStack/issues/1380) (does NOT apply to the html and pdf exports)
+## [Change Color](https://github.com/BookStackApp/BookStack/issues/1380) (does NOT apply to html and pdf exports)
 ```
 <style>
 	:root {
