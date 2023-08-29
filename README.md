@@ -30,3 +30,27 @@ Use [Custom HTML Head Content](https://www.bookstackapp.com/docs/admin/hacking-b
 	}
 </style>
 ```
+
+# draw.io integration
+
+## [Formulas with draw.io](https://github.com/BookStackApp/BookStack/issues/639#issuecomment-597112337) (applies to html and pdf exports)
+
+> It is kind of possible to insert Latex in the BookStack editor right now through the draw.io integration:
+> 
+> Edit your page.
+> 
+> Click the drawing (Shapes) icon in the top editor bar (WYSIWYG editor), Draw.io will open.
+>
+> In the toolbar at the top enable: Extras > Mathematical Typesetting
+>
+> Insert a text section and insert latex text like so:
+>
+> ```$$\sqrt{3×-1}+(1+x)^2$$```
+>
+> Save the drawing and it'll be inserted in your page.
+>
+> Double click the drawing to re-edit.
+>
+> Draw.io page for reference:
+>
+> https://desk.draw.io/support/solutions/articles/16000032875-how-to-use-mathematical-typesetting-
